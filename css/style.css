@@ -1,0 +1,25 @@
+body{
+	color: #000;
+	font-family: tahoma, sans-serif, arial;
+	background: #ddd;
+	margin: 0;
+	padding: 0;
+	font-size: 14px;
+}
+
+center{
+	display: block;
+	margin: 0 auto;
+	background: #fff;
+	padding: 20px;
+	max-width: 1200px;
+	box-shadow: 0 0 3px rgba(0,0,0,.3);
+	-moz-box-shadow: 0 0 3px rgba(0,0,0,.3);
+	-webkit-box-shadow: 0 0 3px rgba(0,0,0,.3);
+	-o-box-shadow: 0 0 3px rgba(0,0,0,.3);
+	-khtml-box-shadow: 0 0 3px rgba(0,0,0,.3);
+}
+
+center > p{
+	color:  #7a7a7a;
+}
